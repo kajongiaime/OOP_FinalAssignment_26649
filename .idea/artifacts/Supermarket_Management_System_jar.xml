@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Supermarket Management System:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Supermarket_Management_System_jar</output-path>
+    <root id="archive" name="Supermarket Management System.jar">
+      <element id="module-output" name="Supermarket Management System" />
+    </root>
+  </artifact>
+</component>
